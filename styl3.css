@@ -1,0 +1,73 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #FFFAFA;
+    margin: 0;
+}
+
+form {
+    margin: 80px;
+}
+
+table {
+    color: white;
+    text-align: center;
+    width: 80%;
+    border: 1px dotted white;
+}
+
+#topnav {
+    height: 100px;
+}
+
+tr:hover{
+    background-color: #D3D3D3;
+    color: black;
+}
+
+#logotop {
+    background-color: #FF7F50;
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+
+#banertop {
+    background-color: #FF7F50;
+    text-align: center;
+    width: 75%;
+    height: 100px;
+    font-size: 130%;
+    float: left;
+}
+
+#mainblock {
+    background-color: #FF7F50;
+    padding: 70px;
+}
+
+#leftblock {
+    width: 40%;
+    height: 400px;
+    float: left;
+    background-color: #FFFAFA;
+
+}
+
+#rightblock {
+    width: 60%;
+    height: 400px;
+    text-align: right;
+    float: left;
+    background-color: #FFFAFA;
+
+}
+
+#footer {
+    background-color: #FF7F50;
+    padding: 20px;
+    clear: left;
+}
+
+#scaleimg {
+    height: 400px;
+}
